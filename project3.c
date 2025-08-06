@@ -103,7 +103,7 @@ int main() {
     printf("\t\t\t|       W      W  W       W       W       W     W  W W  W W  W            |\n");
     printf("\t\t\t|       W  WW  W  WW W W  W       W       W     W  W  WW  W  WW W W       |\n");
     printf("\t\t\t|       W W  W W  W       W       W       W     W  W      W  W            |\n");
-    printf("\t\t\t|       WW    WW  WW W W  WW W W  WW W W  WW W WW  W      W  WW W W       |\n");
+    printf("\t\t\t|       WW    WW  WW W W  WW W W  WW W W  WW W WW  W      W  WW W        |\n");
     printf("\t\t\t|                                                                         |\n");
     printf("\t\t\t|                                                                         |\n");
     printf("\t\t\t -------------------------------------------------------------------------\n");
